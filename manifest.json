@@ -1,0 +1,38 @@
+{
+  "name": "WikiChibi",
+  "short_name": "WikiChibi",
+  "start_url": "https://wikichibi.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "The Free Script Education for You",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-19rHqGJSJIk/XVDn58x0qGI/AAAAAAAAGsI/UTyMhXfoQo0JA0Y664Phy31EVsmbToGdwCLcBGAs/s1600/Logo%2BWiki%2BChibi48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-f7Dk6biTYVU/XVDn6VavG4I/AAAAAAAAGsQ/MbptTcK0LrcUyKdHwaqw7cKUMoToNb62ACLcBGAs/s1600/Logo%2BWiki%2BChibi72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-T950xE4qOMA/XVDn62DCgRI/AAAAAAAAGsY/BILMHZRQVKkBsx1YhXMYjIYdBTjaBOk_wCLcBGAs/s1600/Logo%2BWiki%2BChibi96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-03z8EaMc8PM/XVDn4PpM92I/AAAAAAAAGr0/mJukZnhV3sAXG2oiEG9NRMeMkssvU9vUACLcBGAs/s1600/Logo%2BWiki%2BChibi144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qqL88rOEoGM/XVDpia8acEI/AAAAAAAAGs8/G-0cWXmPuSMHDeT4eA-1LARmQ0XjIqr5wCLcBGAs/s1600/Logo%2BWiki%2BChibi168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FzV8glhxg-Y/XVDpiU7CreI/AAAAAAAAGs4/xTxVbEDEaJwzyqRed6s9W7FApAckTZN9wCLcBGAs/s1600/Logo%2BWiki%2BChibi192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Ot4VqKwsBD0/XVDpkPgT4bI/AAAAAAAAGtI/NGh3j05kJ8EY8DFbiD0qYTYHh6MtQEF8wCLcBGAs/s320/Logo%2BWiki%2BChibi512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
